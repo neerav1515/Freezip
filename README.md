@@ -10,5 +10,5 @@ Decode:
 
 -Upload compressed file and get original file downloaded .
 
-
+Checkout here: https://neerav1515.github.io/Freezip/
 
